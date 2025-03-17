@@ -1,4 +1,5 @@
 # Procedural World Generation System
+Student project
 
 A comprehensive procedural generation system inspired by games like "Minecraft", "Terraria", "Core Keeper", and "Tinkerland", utilizing multiple algorithms to create natural-looking, interconnected environments.
 
