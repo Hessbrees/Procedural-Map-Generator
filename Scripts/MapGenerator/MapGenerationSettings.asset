@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc495e575a113294eaa5e7e567dfc94c, type: 3}
+  m_Name: MapGenerationSettings
+  m_EditorClassIdentifier: 
+  seed: 266
+  mapWidth: 50
+  mapHeight: 50
+  dungeonWidth: 100
+  dungeonHeight: 100
+  dungeonMaxRooms: 15
+  permutationSize: 256
+  persistence: 0.5
+  octaves: 6
+  oceanStrength: 2.5
+  bspIterations: 8
+  townMinimumSize: 40
+  townMaximumSize: 40
+  pathLength: 10
+  lSystemAxiom: F
+  lSystemRules: FF--F+F+FFF+F-FF
+  lSystemIterations: 3
+  probabilityOfEnvironment_Grass: 0.4
+  probabilityOfEnvironment_Stone: 0.8
+  probabilityOfEnvironment_Sand: 0.1
+  probabilityOfEnvironment_Dirt: 0.1
+  probabilityOfEnvironment_Water: 0.1
+  probabilityOfEnvironment_Ocean: 0.1
+  numberOfStartPositions_Grass: 150
+  numberOfStartPositions_Stone: 25
+  numberOfStartPositions_Sand: 25
+  numberOfStartPositions_Dirt: 25
+  numberOfStartPositions_Water: 25
+  numberOfStartPositions_Ocean: 25

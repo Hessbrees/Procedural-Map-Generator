@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c129594104ae440ab7029242cf7f37, type: 3}
+  m_Name: MapSprites
+  m_EditorClassIdentifier: 
+  waterTile: {fileID: 21300000, guid: 59de0ca0f0f76ca429586ed7d06ab700, type: 3}
+  oceanTile: {fileID: 21300000, guid: 99e783ec2c0c12a4d9c852e5c67a02ac, type: 3}
+  grassTile: {fileID: 21300000, guid: 415a9d666d98e9c42886a6bd7107632d, type: 3}
+  sandTile: {fileID: 21300000, guid: 145f28cf2635ddb45a4086544a7918f5, type: 3}
+  stoneTile: {fileID: 21300000, guid: 9e7873331e7002d4ca08a7ffcec12134, type: 3}
+  dirtTile: {fileID: 21300000, guid: 8ce4e94a6fb39b34eae3fb18bb25d26c, type: 3}
+  whiteTile: {fileID: 21300000, guid: 9a610dd2ea3435941953acddb01e657e, type: 3}
+  dungeonWallTile: {fileID: 21300000, guid: 7df81f6675413ff4e801630ca8f93ada, type: 3}
+  dungeonFloorTile: {fileID: 21300000, guid: a91e4d83617f1df40a4836636af6f270, type: 3}
+  dungeonVerticalDoorTile: {fileID: 21300000, guid: d3aee35ae1bb7bf4086b8d4b63eeb839, type: 3}
+  dungeonHorizontalDoorTile: {fileID: 21300000, guid: aa7912bb8861809459713c2d08134d5c, type: 3}
+  dungeonColumnTile: {fileID: 21300000, guid: b54bc29fcee359b47a02ae99f03dd7dd, type: 3}
+  wallTile: {fileID: 21300000, guid: 564d9b52fe3c74c4c975ae88b6da3a36, type: 3}
+  floorTile: {fileID: 21300000, guid: 8f40f67b7c40d6d42b2038c3bfc2b4b6, type: 3}
+  verticalDoorTile: {fileID: 21300000, guid: 21c00b96be3e3d8479272044b7023c2a, type: 3}
+  horizontalDoorTile: {fileID: 21300000, guid: 83e16c0fa1a78584697f844d0aa5ad5e, type: 3}
+  columnTile: {fileID: 21300000, guid: 502a3ca9bb9e0e54991b33a6929d5072, type: 3}
+  stonePathTile: {fileID: 21300000, guid: e2519421421efa24cbdf488809d42dc1, type: 3}
+  ladderTile: {fileID: 21300000, guid: ed9261c6ee6085c409b19724ef762d7f, type: 3}
+  stoneWallTile: {fileID: 21300000, guid: dedbd6962ed3b1f42ab3cdb328723de3, type: 3}
+  pathTile: {fileID: 21300000, guid: 6908a757529e4c446959f9cffe394670, type: 3}
+  stumpTile: {fileID: 21300000, guid: ff990e86298f0f945b66adc50513e59d, type: 3}
+  treeDownTile: {fileID: 21300000, guid: 561d8455051a76a44a79d629337a9715, type: 3}
+  treeUpTile: {fileID: 21300000, guid: 4beb175055570034998a4eea0890efa4, type: 3}
+  grassSeedTile: {fileID: 21300000, guid: 62a1c5772c3939e45b3abd5958a0eed5, type: 3}
+  grassBushTile: {fileID: 21300000, guid: 1be38b82c87ef7d4d95012f6621937dd, type: 3}
+  grassFlowerTile: {fileID: 21300000, guid: ea803d8ef73c29e498fc15d43ca3bb92, type: 3}
+  grassRockTile: {fileID: 21300000, guid: d573c0e17dbc74047a55ea5538165f94, type: 3}
+  stoneRockTile: {fileID: 21300000, guid: 76795339db60528489bbe9b811d48780, type: 3}
+  stoneCopperTile: {fileID: 21300000, guid: 65cda7919885d554589479c4aedd0242, type: 3}
+  stoneCoalTile: {fileID: 21300000, guid: 1f48354de6348fd4d8aeef7b304e6d62, type: 3}
